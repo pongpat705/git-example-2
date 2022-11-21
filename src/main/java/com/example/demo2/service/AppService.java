@@ -12,4 +12,8 @@ public class AppService {
     public void generatePdf(){
 
     }
+
+    public void generateExcel(){
+
+    }
 }
