@@ -9,6 +9,7 @@ public class AppRestController {
 
     @GetMapping("/xxxx")
     public String getIndex(){
+        System.out.println("get index");
         return "xxx";
     }
 
