@@ -16,4 +16,8 @@ public class AppService {
     public void generateExcel(){
 
     }
+
+    public void generateWord(){
+
+    }
 }
